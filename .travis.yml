@@ -1,8 +1,6 @@
 language: php
 php:
   - 5.5
-  - 5.4
-  - hhvm
 script: phpunit Test.php
 notifications:
-  webhooks: https://requestb.in/1j6tdkt1
+  webhooks: http://stripe.shiranuisayakadev.ultrahook.com 
