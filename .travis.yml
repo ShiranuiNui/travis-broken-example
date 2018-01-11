@@ -3,5 +3,4 @@ php:
   - 5.5
 script: phpunit Test.php
 notifications:
-  webhooks: http://stripe.shiranuisayakadev.ultrahook.com 
-  email: m7812044086@dqnwara.com
+  webhooks: https://requestb.in/t58sllt5 
