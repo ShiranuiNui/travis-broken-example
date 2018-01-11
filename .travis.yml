@@ -3,4 +3,4 @@ php:
   - 5.5
 script: phpunit Test.php
 notifications:
-  webhooks: https://requestb.in/t58sllt5 
+  webhooks: http://shiranuisayaka.net:5000/ 
