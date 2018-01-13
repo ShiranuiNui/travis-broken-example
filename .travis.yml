@@ -1,6 +1,7 @@
 language: php
 php:
-  - 5.5
+- 5.5
 script: phpunit Test.php
 notifications:
-  webhooks: http://shiranuisayaka.net:5000/ 
+  webhooks: 
+    secure: m2my9jtQyfedVPTUwtTeK/Qokjr71k6uEX4hIbQVWLF0wIZUZXQNIVB7WRxXfiuyLvjYUTLv8UtIxfStuAFLyFXQdSYzmhshkxewTAWTQG9YO/2FYgz/M+dpQks7X6syzJT92V9KNjIPH2oN/8y1Esv+aGJjw1NJuvZoiEurcDQLQFmxyp6Q+Yo/okh3cQtyaUnaCbDxMD7BsnqMO0/bi2e8LMvsdtiD2HrdJoKBIkIFla/etcAQ5j4ePGAB61u9sook+2P2rqWSo2lpBNbOIK3En8/Cix7MqMWBxbAzgbffz1em/s1Ae24b+Wb+p1pPy2qggToDBE7mAE/s9DXqUWTOreNkCM9fsHweRQOP/r4nCvjrzgUJ2IrlMcWIMVP7/WziEwY6VWjSv0rc2+y3yTtDn4BLIsi2hDfJO8vdyHnGWzCtwDfS5SYlX5/fOstyvFHheccl3O1lCVk9IdjahOfzQ3AG/nRRckBZbjNWyHoyG+Fr8FvLf6fg7CBry5IZ/usfFwrTczmRL3ARYdOHrDMTWIRi8SbWfvJWhd+PAfC42VkewKwgW778bl+fSIVaaAsBg3raWWEvR2gl7UJwLudYjZcbOYbqPd7eFOFkTZXmZx7ewYhWae/1egsTA2JuoY9OAvqo13t+gk5cGRbYynEKhqRzp2dNI8qc77uFat0=
